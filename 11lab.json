@@ -19,7 +19,7 @@
 "id":2,
 		"car":"Audi A4",
 	"price": 1200000,
-    "gearbox": "Неважно",
+    "gearbox": "Робот",
     "year": 2021,
 		"power":249
 	}]
