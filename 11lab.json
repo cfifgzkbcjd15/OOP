@@ -3,10 +3,7 @@
 	"id":1,
 	"car":"Marussia B2 2.8 T AT Base",
 	"price": 500000,
-    "gearbox":"Автомат"
-	{
-	"type":"Asdasd"
-},
+    "gearbox":"Автомат",
     "year": 2012,
 	"power":420
 },	
@@ -14,10 +11,7 @@
 		"id":3,
 		"car":"Mazda 3",
 	"price": 200000,
-    "gearbox": "Механика"
-	{
-	"type":"Asdasd"
-},
+    "gearbox": "Механика",
     "year": 2018,
 		"power":120		
 	},
@@ -25,10 +19,7 @@
 "id":2,
 		"car":"Audi A4",
 	"price": 1200000,
-    "gearbox": "Робот"
-	{
-	"type":"Asdasd"
-},
+    "gearbox": "Робот",
     "year": 2021,
 		"power":249
 	}]
