@@ -14,7 +14,10 @@
 		"id":3,
 		"car":"Mazda 3",
 	"price": 200000,
-    "gearbox": "Механика",
+    "gearbox": "Механика"
+	{
+	"type":"Asdasd"
+},
     "year": 2018,
 		"power":120		
 	},
@@ -22,7 +25,10 @@
 "id":2,
 		"car":"Audi A4",
 	"price": 1200000,
-    "gearbox": "Робот",
+    "gearbox": "Робот"
+	{
+	"type":"Asdasd"
+},
     "year": 2021,
 		"power":249
 	}]
