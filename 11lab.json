@@ -3,7 +3,10 @@
 	"id":1,
 	"car":"Marussia B2 2.8 T AT Base",
 	"price": 500000,
-    "gearbox": ["Автомат", "asdasdasd","dasdas"],
+    "gearbox":"Автомат",
+	{
+	"type":"Asdasd"
+}
     "year": 2012,
 	"power":420
 },	
